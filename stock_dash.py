@@ -1,5 +1,20 @@
 ##############################################################
-#Models getting updated ; Dates are pushed forward 50 days for every 
+#
+# 500 Days of AAPL data used to predict 50 days in the future
+#
+#-------------------------------------------------------------
+# Author : Dhruv Oberoi
+# Dash App for Stock Price Prediction using
+# Linear Regression, Ridge Regression, Lasso, SVR (RBF Kernel),
+# Random Forest and XGBoost
+#-------------------------------------------------------------
+# Next Iterations:
+#
+# Fix date issue ; Dates are pushed forward 50 days
+# Reduce overuse of df's
+# Introduce range slider for date to alter training dataset
+# Print and alter based on results from GridSearchCV
+#
 ##############################################################
 import dash
 import dash_core_components as dcc
