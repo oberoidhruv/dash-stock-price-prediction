@@ -11,4 +11,4 @@ In a sphere dominated by the use of complex neural networks and deep learning te
 
 
 
-Several resources were utilised for this project. Harisson Kinsley's tutorials (www.pythonprogramming.net) were particularly helpful in grasping several concepts and formed the basis of this function, amongst others.
+Several resources were utilised for this project. Harisson Kinsley's tutorials (www.pythonprogramming.net) were particularly helpful in grasping several concepts and formed the basis of this application, amongst others.
