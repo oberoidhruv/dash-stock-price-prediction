@@ -55,7 +55,7 @@ from sklearn.model_selection import GridSearchCV
 #import plotly
 #plotly.tools.set_credentials_file(username='dhruv.oberoi', api_key='sLK8r7oWuF6YccqLMv22')
 
-quandl.ApiConfig.api_key = 'prs7G4x_nnyW7Zszk5cg'
+quandl.ApiConfig.api_key = 'PASTE YOUR API KEY HERE'
 df = quandl.get("EOD/AAPL")
 ###########################################################################
 
