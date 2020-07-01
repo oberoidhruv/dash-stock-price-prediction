@@ -53,7 +53,7 @@ from sklearn.model_selection import cross_val_score
 from sklearn.model_selection import GridSearchCV
 
 #import plotly
-#plotly.tools.set_credentials_file(username='dhruv.oberoi', api_key='sLK8r7oWuF6YccqLMv22')
+#plotly.tools.set_credentials_file(username='dhruv.oberoi', api_key='API KEY')
 
 quandl.ApiConfig.api_key = 'PASTE YOUR API KEY HERE'
 df = quandl.get("EOD/AAPL")
